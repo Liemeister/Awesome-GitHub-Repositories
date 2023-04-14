@@ -2,6 +2,8 @@
 
 An **awesome** List of The **Crème de la Crème** Repositories on GitHub
 
+---
+
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome Lists on GitHub (GitHub Topic).
   - [Awesome](https://github.com/sindresorhus/awesome) - A Curated List of Awesome Lists (From GitHub Topic).
     - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
@@ -10,12 +12,12 @@ An **awesome** List of The **Crème de la Crème** Repositories on GitHub
 - [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) - With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently. This list contains the research, tools and code that people use to beat the market.
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Contains a list of: API Tools, Chrome Extensions, Access ChatGPT From Other Platforms, Tutorials, Social Tools, Applications, CLI Tools, DevOps, Cybersecurity, Example Prompts.
 - [Awesome ChatGPT Implementations](https://github.com/stars/acheong08/lists/awesome-chatgpt) - Contains a List of ChatGPT Implementations, such as: ChatGPT Bot for Discord/Telegram/Slack
-- [Awesome Docsify](https://github.com/docsifyjs/awesome-docsify)
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
-- [Awesome OSINT (Open-Source Software)](https://github.com/jivoi/awesome-osint)
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-- [Awesome Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Awesome Windows Apps and Tools](https://github.com/Awesome-Windows/Awesome)
+- [Awesome Docsify](https://github.com/docsifyjs/awesome-docsify) - A curated list of awesome things related to docsify
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - A collection of awesome macOS software in various categories
+- [Awesome OSINT (Open-Source Software)](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome open source intelligence tools and resources.
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services and alternatives to privative services.
+- [Awesome Self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free (and Paid) software network services and web applications which can be hosted on your own server(s).
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows.
 
 ---
 
