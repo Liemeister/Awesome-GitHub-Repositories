@@ -2,9 +2,8 @@
 
 ## Related
 
-- [Top 50 Awesome List](https://www.trackawesomelist.com/#top-50-awesome-list)
-
 An **awesome** List of The **Crème de la Crème** Repositories on GitHub
+- [Top 50 Awesome List](https://www.trackawesomelist.com/#top-50-awesome-list)
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome Lists on GitHub (GitHub Topic).
 - [Awesome](https://github.com/sindresorhus/awesome) - A Curated List of Awesome Lists (From GitHub Topic).
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
