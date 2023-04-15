@@ -25,9 +25,10 @@ Some people call them **awesome**, some call them **Crème de la Crème**... Wha
 ---
 
 ## Awesome AI Tools Directories/Aggregators
-[The Top AI Tools](https://aitoptools.com/) - Top 3000+ AI Tools of the internet ranked with dynamic algorithms.
+- [The Top AI Tools](https://aitoptools.com/) - Top 3000+ AI Tools of the internet ranked with dynamic algorithms.
+- [Foundr.ai](https://foundr.ai/) -
 
-[AIT
+---
 
 ## Awesome AI Tools 🤖
 - [AgentGPT](https://agentgpt.reworkd.ai/) - Assemble, configure, and deploy autonomous AI Agents in your browser. Link to [GitHub](https://github.com/reworkd/AgentGPT)
@@ -37,12 +38,12 @@ Some people call them **awesome**, some call them **Crème de la Crème**... Wha
 
 ---
 
-## List of Awesome Websites
-- [ProductHunt](https://www.producthunt.com/) - Platform that showcases and promotes newly launched digital products from around the world.
+## Awesome Websites
+- [ProductHunt](https://www.producthunt.com/) - Product Hunt is a platform for makers and startups to showcase and discover new software products. Users can submit their products for review and feedback, and the most popular ones get featured on the homepage. It is a go-to destination for tech enthusiasts and entrepreneurs to keep up with the latest innovations and trends in the industry and serves as a great platform for startups to gain exposure and connect with potential users and investors. Product Hunt plays an essential role in driving innovation and progress in the technology industry.
   - [ProductHunt Topic: Artificial Intelligence](https://www.producthunt.com/topics/artificial-intelligence) 
-
+  - [ProductHunt Hall of Fame: Products of the Year](https://www.producthunt.com/golden-kitty-awards/hall-of-fame)
+- [Dev Community](https://dev.to/) - Dev.to is a community-driven platform for software developers to share knowledge, ideas, and experiences. It fosters collaboration and communication among developers of all levels by providing tools such as articles, tutorials, Q&A discussions, and podcasts. The platform is highly customizable, open-source, and free to use, making it a popular choice in the developer community.
+- [Hugging Face](https://huggingface.co/) - Hugging Face is an AI startup that provides natural language processing tools to businesses and developers. Its main product is an open-source library called Transformers that helps developers train and deploy machine learning models for NLP tasks. Hugging Face also offers services like a model hub, a platform for hosting models, and a community forum for developers. It's a useful resource for anyone who wants to use NLP in their applications.
 
 ---
 
-## List of Awesome CRM Systems 
-- [
